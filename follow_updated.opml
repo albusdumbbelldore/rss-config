@@ -1,9 +1,10 @@
 <?xml version='1.0' encoding='utf-8'?>
 <opml version="2.0">
   <head>
-    <dateCreated>2026-01-07T10:00:00.000Z</dateCreated>
-    <title>Follow Updated</title>
+    <dateCreated>2026-01-18T00:00:00.000Z</dateCreated>
+    <title>Follow Updated (curated)</title>
   </head>
+
   <body>
     <outline text="Türkiye Haberleri">
       <outline text="Teknoloji &amp; Girişim">
@@ -13,9 +14,11 @@
         <outline text="Webtekno" title="Webtekno" type="rss" xmlUrl="https://www.webtekno.com/rss.xml" htmlUrl="https://www.webtekno.com/" />
         <outline text="LOG" title="LOG" type="rss" xmlUrl="https://www.log.com.tr/feed/" htmlUrl="https://www.log.com.tr/" />
         <outline text="CHIP Online" title="CHIP Online" type="rss" xmlUrl="https://www.chip.com.tr/rss/" htmlUrl="https://www.chip.com.tr/" />
-        <outline text="Egirişim" title="Egirişim" type="rss" xmlUrl="https://egirisim.com/feed/" htmlUrl="https://egirisim.com/" />
-        <outline text="Swipeline" title="Swipeline" type="rss" xmlUrl="https://swipeline.co/feed/" htmlUrl="https://swipeline.co/" />
+
+        <!-- Added: BT Dünyası -->
+        <outline text="BT Dünyası" title="BT Dünyası" type="rss" xmlUrl="https://feeds.feedburner.com/Btdunyasinet" htmlUrl="https://btdunyasi.net/" />
       </outline>
+
       <outline text="Otomobil">
         <outline text="Motor1 Türkiye" title="Motor1 Türkiye" type="rss" xmlUrl="https://tr.motor1.com/rss/articles/all/" htmlUrl="https://tr.motor1.com/" />
         <outline text="Otomobil Haber" title="Otomobil Haber" type="rss" xmlUrl="https://www.otomobilhaber.com.tr/feed/" htmlUrl="https://www.otomobilhaber.com.tr/" />
@@ -32,39 +35,41 @@
         <outline text="Last Week in AI" title="Last Week in AI" xmlUrl="https://lastweekin.ai/feed" htmlUrl="https://lastweekin.ai/" type="rss" />
         <outline text="MacRumors" title="MacRumors" xmlUrl="https://feeds.macrumors.com/MacRumors-All" htmlUrl="https://www.macrumors.com/" type="rss" />
       </outline>
+
       <outline text="9to5Google" title="9to5Google" xmlUrl="https://9to5google.com/feed/" htmlUrl="https://9to5google.com/" type="rss" />
       <outline text="9to5Mac" title="9to5Mac" xmlUrl="https://9to5mac.com/feed/" htmlUrl="https://9to5mac.com/" type="rss" />
       <outline text="Android Authority" title="Android Authority" xmlUrl="https://www.androidauthority.com/feed/" htmlUrl="https://www.androidauthority.com/" type="rss" />
       <outline text="Android Police" title="Android Police" xmlUrl="https://www.androidpolice.com/feed/" htmlUrl="https://www.androidpolice.com/" type="rss" />
+      <outline text="Android Central" title="Android Central" xmlUrl="http://feeds.feedburner.com/androidcentral?format=xml" htmlUrl="https://www.androidcentral.com/" type="rss" />
+
       <outline text="Ars Technica" title="Ars Technica" xmlUrl="http://feeds.arstechnica.com/arstechnica/index" htmlUrl="https://arstechnica.com/" type="rss" />
-      <outline text="Gizmochina" title="Gizmochina" xmlUrl="https://www.gizmochina.com/home/feed/" type="rss" />
+      <outline text="Gizmochina" title="Gizmochina" xmlUrl="https://www.gizmochina.com/home/feed/" htmlUrl="https://www.gizmochina.com/" type="rss" />
       <outline text="GSMArena" title="GSMArena" xmlUrl="https://www.gsmarena.com/rss-news-reviews.php3" htmlUrl="https://www.gsmarena.com/" type="rss" />
       <outline text="XDA" title="XDA" xmlUrl="https://www.xda-developers.com/feed/" htmlUrl="https://www.xda-developers.com/" type="rss" />
-      <outline text="PhoneArena" title="PhoneArena" xmlUrl="https://www.phonearena.com/feed/news" htmlUrl="https://www.phonearena.com/" type="rss" />
+
+      <!-- Removed: PhoneArena -->
+
+      <!-- Added: PC Hardware-friendly feeds -->
+      <outline text="TechPowerUp News" title="TechPowerUp News" xmlUrl="https://www.techpowerup.com/rss/news" htmlUrl="https://www.techpowerup.com/" type="rss" />
+      <outline text="VideoCardz" title="VideoCardz" xmlUrl="https://videocardz.com/feed" htmlUrl="https://videocardz.com/" type="rss" />
     </outline>
 
     <outline text="SocialMedia">
       <outline text="Recommended">
         <outline text="Twitter @Sam Altman" title="Twitter @Sam Altman" xmlUrl="https://rsshub.app/twitter/user/sama" htmlUrl="https://x.com/sama" type="rss" />
         <outline text="Twitter @OpenAI" title="Twitter @OpenAI" xmlUrl="https://rsshub.app/twitter/user/OpenAI" htmlUrl="https://x.com/OpenAI" type="rss" />
-        <outline text="Twitter @Elon Musk" title="Twitter @Elon Musk" xmlUrl="https://rsshub.app/twitter/user/elonmusk" htmlUrl="https://x.com/elonmusk" type="rss" />
         <outline text="Twitter @Anthropic" title="Twitter @Anthropic" xmlUrl="https://rsshub.app/twitter/user/AnthropicAI" htmlUrl="https://x.com/AnthropicAI" type="rss" />
         <outline text="Twitter @Google AI" title="Twitter @Google AI" xmlUrl="https://rsshub.app/twitter/user/GoogleAI" htmlUrl="https://x.com/GoogleAI" type="rss" />
+
+        <!-- Added: BPT Haber (Telegram via RSSHub) -->
+        <outline text="BPT Haber (Telegram)" title="BPT Haber (Telegram)" xmlUrl="https://rsshub.app/telegram/channel/bpthaber" htmlUrl="https://t.me/s/bpthaber" type="rss" />
       </outline>
     </outline>
 
-    <outline text="Videos">
-      <outline text="Recommended">
-        <outline text="Andrej Karpathy - YouTube" title="Andrej Karpathy - YouTube" xmlUrl="https://rsshub.app/youtube/user/@AndrejKarpathy" htmlUrl="https://www.youtube.com/channel/UCXUPKJO5MZQN11PqgIvyuvQ" type="rss" />
-        <outline text="Anthropic - YouTube" title="Anthropic - YouTube" xmlUrl="https://rsshub.app/youtube/user/%40anthropic-ai" htmlUrl="https://www.youtube.com/channel/UCrDwWp7EBBv4NwvScIpBDOA" type="rss" />
-        <outline text="Marques Brownlee - YouTube" title="Marques Brownlee - YouTube" xmlUrl="https://rsshub.app/youtube/user/%40mkbhd" htmlUrl="https://www.youtube.com/channel/UCBJycsmduvYEL83R_U4JriQ" type="rss" />
-      </outline>
-    </outline>
-
+    <!-- Standalone feeds kept -->
     <outline text="TechCrunch" title="TechCrunch" type="rss" xmlUrl="https://techcrunch.com/feed/" htmlUrl="https://techcrunch.com/" />
     <outline text="WIRED Top Stories" title="WIRED Top Stories" type="rss" xmlUrl="https://www.wired.com/feed/rss" htmlUrl="https://www.wired.com/" />
     <outline text="Engadget" title="Engadget" type="rss" xmlUrl="https://www.engadget.com/rss.xml" htmlUrl="https://www.engadget.com/" />
-    <outline text="CNET News" title="CNET News" type="rss" xmlUrl="https://www.cnet.com/rss/news/" htmlUrl="https://www.cnet.com/" />
     <outline text="Tom's Hardware" title="Tom's Hardware" type="rss" xmlUrl="https://www.tomshardware.com/feeds/all" htmlUrl="https://www.tomshardware.com/" />
     <outline text="Electrek" title="Electrek" type="rss" xmlUrl="https://electrek.co/feed" htmlUrl="https://electrek.co/" />
     <outline text="InsideEVs" title="InsideEVs" type="rss" xmlUrl="https://insideevs.com/rss/articles/all/" htmlUrl="https://insideevs.com/" />
