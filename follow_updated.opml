@@ -14,6 +14,7 @@
         <outline text="Webtekno" title="Webtekno" type="rss" xmlUrl="https://www.webtekno.com/rss.xml" htmlUrl="https://www.webtekno.com/" />
         <outline text="LOG" title="LOG" type="rss" xmlUrl="https://www.log.com.tr/feed/" htmlUrl="https://www.log.com.tr/" />
         <outline text="BT Dünyası" title="BT Dünyası" type="rss" xmlUrl="https://feeds.feedburner.com/Btdunyasinet" htmlUrl="https://btdunyasi.net/" />
+        <outline text="Technopat" title="Technopat" type="rss" xmlUrl="https://www.technopat.net/feed/" htmlUrl="https://www.technopat.net/" />
       </outline>
 
       <outline text="Otomobil">
@@ -31,19 +32,23 @@
         <outline text="The Verge" title="The Verge" xmlUrl="https://www.theverge.com/rss/index.xml" htmlUrl="https://www.theverge.com/" type="rss" />
         <outline text="Last Week in AI" title="Last Week in AI" xmlUrl="https://lastweekin.ai/feed" htmlUrl="https://lastweekin.ai/" type="rss" />
         <outline text="MacRumors" title="MacRumors" xmlUrl="https://feeds.macrumors.com/MacRumors-All" htmlUrl="https://www.macrumors.com/" type="rss" />
+        <outline text="VentureBeat" title="VentureBeat" xmlUrl="https://venturebeat.com/feed/" htmlUrl="https://venturebeat.com/" type="rss" />
       </outline>
 
       <outline text="Mobile &amp; Android">
+        <outline text="SamMobile" title="SamMobile" xmlUrl="https://www.sammobile.com/feed/" htmlUrl="https://www.sammobile.com/" type="rss" />
         <outline text="9to5Google" title="9to5Google" xmlUrl="https://9to5google.com/feed/" htmlUrl="https://9to5google.com/" type="rss" />
         <outline text="Android Authority" title="Android Authority" xmlUrl="https://www.androidauthority.com/feed/" htmlUrl="https://www.androidauthority.com/" type="rss" />
         <outline text="Android Police" title="Android Police" xmlUrl="https://www.androidpolice.com/feed/" htmlUrl="https://www.androidpolice.com/" type="rss" />
         <outline text="Android Central" title="Android Central" xmlUrl="http://feeds.feedburner.com/androidcentral?format=xml" htmlUrl="https://www.androidcentral.com/" type="rss" />
         <outline text="GSMArena" title="GSMArena" xmlUrl="https://www.gsmarena.com/rss-news-reviews.php3" htmlUrl="https://www.gsmarena.com/" type="rss" />
         <outline text="XDA" title="XDA" xmlUrl="https://www.xda-developers.com/feed/" htmlUrl="https://www.xda-developers.com/" type="rss" />
+        <outline text="PhoneArena" title="PhoneArena" xmlUrl="https://www.phonearena.com/feed" htmlUrl="https://www.phonearena.com/" type="rss" />
       </outline>
 
       <outline text="Apple">
         <outline text="9to5Mac" title="9to5Mac" xmlUrl="https://9to5mac.com/feed/" htmlUrl="https://9to5mac.com/" type="rss" />
+        <outline text="AppleInsider" title="AppleInsider" xmlUrl="https://appleinsider.com/rss/news/" htmlUrl="https://appleinsider.com/" type="rss" />
       </outline>
 
       <outline text="PC Hardware &amp; Gaming">
