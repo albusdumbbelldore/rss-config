@@ -2,7 +2,7 @@
 <opml version="2.0">
   <head>
     <dateCreated>2026-01-19T00:00:00.000Z</dateCreated>
-    <title>Follow Updated (curated)</title>
+    <title>Follow Updated (Full Content)</title>
   </head>
 
   <body>
@@ -28,11 +28,11 @@
     <outline text="Articles">
       <outline text="Recommended">
         <outline text="OpenAI News" title="OpenAI News" xmlUrl="https://openai.com/news/rss.xml" htmlUrl="https://openai.com/news" type="rss" />
-        <outline text="Epic Games Store - Free Games" title="Epic Games Store - Free Games" xmlUrl="https://rsshub.app/epicgames/freegames/en-US/US" htmlUrl="https://store.epicgames.com/en-US/free-games?lang=en-US" type="rss" />
+        <outline text="Epic Games Store - Free Games" title="Epic Games Store - Free Games" xmlUrl="https://rsshub.app/epicgames/freegames/en-US/US" htmlUrl="https://store.epicgames.com/en-US/free-games" type="rss" />
+        <outline text="Epic Games Store News" title="Epic Games Store News" xmlUrl="https://rsshub.app/epicgames/news/en-US" htmlUrl="https://store.epicgames.com/en-US/news" type="rss" />
         <outline text="The Verge" title="The Verge" xmlUrl="https://www.theverge.com/rss/index.xml" htmlUrl="https://www.theverge.com/" type="rss" />
         <outline text="Last Week in AI" title="Last Week in AI" xmlUrl="https://lastweekin.ai/feed" htmlUrl="https://lastweekin.ai/" type="rss" />
         <outline text="MacRumors" title="MacRumors" xmlUrl="https://feeds.macrumors.com/MacRumors-All" htmlUrl="https://www.macrumors.com/" type="rss" />
-        <outline text="VentureBeat" title="VentureBeat" xmlUrl="https://venturebeat.com/feed/" htmlUrl="https://venturebeat.com/" type="rss" />
       </outline>
 
       <outline text="Mobile &amp; Android">
@@ -46,7 +46,7 @@
         <outline text="Android Central" title="Android Central" xmlUrl="http://feeds.feedburner.com/androidcentral?format=xml" htmlUrl="https://www.androidcentral.com/" type="rss" />
         <outline text="GSMArena" title="GSMArena" xmlUrl="https://www.gsmarena.com/rss-news-reviews.php3" htmlUrl="https://www.gsmarena.com/" type="rss" />
         <outline text="XDA" title="XDA" xmlUrl="https://www.xda-developers.com/feed/" htmlUrl="https://www.xda-developers.com/" type="rss" />
-        </outline>
+      </outline>
 
       <outline text="Apple">
         <outline text="9to5Mac" title="9to5Mac" xmlUrl="https://9to5mac.com/feed/" htmlUrl="https://9to5mac.com/" type="rss" />
@@ -56,7 +56,7 @@
       <outline text="PC Hardware &amp; Gaming">
         <outline text="Tom's Hardware" title="Tom's Hardware" type="rss" xmlUrl="https://www.tomshardware.com/feeds/all" htmlUrl="https://www.tomshardware.com/" />
         <outline text="TechPowerUp News" title="TechPowerUp News" xmlUrl="https://www.techpowerup.com/rss/news" htmlUrl="https://www.techpowerup.com/" type="rss" />
-        <outline text="VideoCardz" title="VideoCardz" xmlUrl="https://videocardz.com/feed" htmlUrl="https://videocardz.com/" />
+        <outline text="VideoCardz" title="VideoCardz" xmlUrl="https://videocardz.com/feed" htmlUrl="https://videocardz.com/" type="rss" />
         <outline text="AnandTech" title="AnandTech" xmlUrl="https://www.anandtech.com/rss/" htmlUrl="https://www.anandtech.com/" type="rss" />
         <outline text="Notebookcheck" title="Notebookcheck" xmlUrl="https://www.notebookcheck.net/rss/Articles.rss" htmlUrl="https://www.notebookcheck.net/" type="rss" />
         <outline text="WCCFtech" title="WCCFtech" xmlUrl="https://wccftech.com/feed/" htmlUrl="https://wccftech.com/" type="rss" />
