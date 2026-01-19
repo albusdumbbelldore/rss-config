@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <opml version="2.0">
   <head>
-    <dateCreated>2026-01-18T00:00:00.000Z</dateCreated>
+    <dateCreated>2026-01-19T00:00:00.000Z</dateCreated>
     <title>Follow Updated (curated)</title>
   </head>
 
@@ -37,14 +37,16 @@
 
       <outline text="Mobile &amp; Android">
         <outline text="SamMobile" title="SamMobile" xmlUrl="https://www.sammobile.com/feed/" htmlUrl="https://www.sammobile.com/" type="rss" />
+        <outline text="SammyGuru" title="SammyGuru" xmlUrl="https://sammyguru.com/feed/" htmlUrl="https://sammyguru.com/" type="rss" />
+        <outline text="Gizmochina" title="Gizmochina" xmlUrl="https://www.gizmochina.com/feed/" htmlUrl="https://www.gizmochina.com/" type="rss" />
+        <outline text="Gizchina" title="Gizchina" xmlUrl="https://www.gizchina.com/feed/" htmlUrl="https://www.gizchina.com/" type="rss" />
         <outline text="9to5Google" title="9to5Google" xmlUrl="https://9to5google.com/feed/" htmlUrl="https://9to5google.com/" type="rss" />
         <outline text="Android Authority" title="Android Authority" xmlUrl="https://www.androidauthority.com/feed/" htmlUrl="https://www.androidauthority.com/" type="rss" />
         <outline text="Android Police" title="Android Police" xmlUrl="https://www.androidpolice.com/feed/" htmlUrl="https://www.androidpolice.com/" type="rss" />
         <outline text="Android Central" title="Android Central" xmlUrl="http://feeds.feedburner.com/androidcentral?format=xml" htmlUrl="https://www.androidcentral.com/" type="rss" />
         <outline text="GSMArena" title="GSMArena" xmlUrl="https://www.gsmarena.com/rss-news-reviews.php3" htmlUrl="https://www.gsmarena.com/" type="rss" />
         <outline text="XDA" title="XDA" xmlUrl="https://www.xda-developers.com/feed/" htmlUrl="https://www.xda-developers.com/" type="rss" />
-        <outline text="PhoneArena" title="PhoneArena" xmlUrl="https://www.phonearena.com/feed" htmlUrl="https://www.phonearena.com/" type="rss" />
-      </outline>
+        </outline>
 
       <outline text="Apple">
         <outline text="9to5Mac" title="9to5Mac" xmlUrl="https://9to5mac.com/feed/" htmlUrl="https://9to5mac.com/" type="rss" />
@@ -54,7 +56,7 @@
       <outline text="PC Hardware &amp; Gaming">
         <outline text="Tom's Hardware" title="Tom's Hardware" type="rss" xmlUrl="https://www.tomshardware.com/feeds/all" htmlUrl="https://www.tomshardware.com/" />
         <outline text="TechPowerUp News" title="TechPowerUp News" xmlUrl="https://www.techpowerup.com/rss/news" htmlUrl="https://www.techpowerup.com/" type="rss" />
-        <outline text="VideoCardz" title="VideoCardz" xmlUrl="https://videocardz.com/feed" htmlUrl="https://videocardz.com/" type="rss" />
+        <outline text="VideoCardz" title="VideoCardz" xmlUrl="https://videocardz.com/feed" htmlUrl="https://videocardz.com/" />
         <outline text="AnandTech" title="AnandTech" xmlUrl="https://www.anandtech.com/rss/" htmlUrl="https://www.anandtech.com/" type="rss" />
         <outline text="Notebookcheck" title="Notebookcheck" xmlUrl="https://www.notebookcheck.net/rss/Articles.rss" htmlUrl="https://www.notebookcheck.net/" type="rss" />
         <outline text="WCCFtech" title="WCCFtech" xmlUrl="https://wccftech.com/feed/" htmlUrl="https://wccftech.com/" type="rss" />
