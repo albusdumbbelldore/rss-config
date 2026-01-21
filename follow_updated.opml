@@ -1,92 +1,113 @@
 <?xml version='1.0' encoding='utf-8'?>
 <opml version="2.0">
   <head>
-    <dateCreated>2026-01-19T00:00:00.000Z</dateCreated>
-    <title>Follow Updated (Full Content)</title>
+    <dateCreated>2026-01-21T00:00:00.000Z</dateCreated>
+    <title>HWP News Sources - TR Priority v12.2</title>
   </head>
-
   <body>
-    <outline text="Türkiye Haberleri">
+    <!-- ═══════════════════════════════════════════════════════════════════ -->
+    <!-- 1. TÜRKİYE HABERLERİ (EN YÜKSEK ÖNCELİK - 100-150 puan)            -->
+    <!-- ═══════════════════════════════════════════════════════════════════ -->
+    <outline text="🇹🇷 Türkiye Haberleri">
       <outline text="Teknoloji &amp; Girişim">
         <outline text="Webrazzi" title="Webrazzi" type="rss" xmlUrl="https://webrazzi.com/feed/" htmlUrl="https://webrazzi.com/" />
         <outline text="DonanımHaber" title="DonanımHaber" type="rss" xmlUrl="https://www.donanimhaber.com/rss/tum/" htmlUrl="https://www.donanimhaber.com/" />
         <outline text="ShiftDelete.Net" title="ShiftDelete.Net" type="rss" xmlUrl="https://shiftdelete.net/feed" htmlUrl="https://shiftdelete.net/" />
+        <outline text="Technopat" title="Technopat" type="rss" xmlUrl="https://www.technopat.net/feed/" htmlUrl="https://www.technopat.net/" />
         <outline text="Webtekno" title="Webtekno" type="rss" xmlUrl="https://www.webtekno.com/rss.xml" htmlUrl="https://www.webtekno.com/" />
         <outline text="LOG" title="LOG" type="rss" xmlUrl="https://www.log.com.tr/feed/" htmlUrl="https://www.log.com.tr/" />
         <outline text="BT Dünyası" title="BT Dünyası" type="rss" xmlUrl="https://feeds.feedburner.com/Btdunyasinet" htmlUrl="https://btdunyasi.net/" />
-        <outline text="Technopat" title="Technopat" type="rss" xmlUrl="https://www.technopat.net/feed/" htmlUrl="https://www.technopat.net/" />
       </outline>
-
-      <outline text="Otomobil">
+      <outline text="Otomobil &amp; Elektrikli Araç">
         <outline text="Motor1 Türkiye" title="Motor1 Türkiye" type="rss" xmlUrl="https://tr.motor1.com/rss/articles/all/" htmlUrl="https://tr.motor1.com/" />
         <outline text="Otomobil Haber" title="Otomobil Haber" type="rss" xmlUrl="https://www.otomobilhaber.com.tr/feed/" htmlUrl="https://www.otomobilhaber.com.tr/" />
         <outline text="Dolubatarya" title="Dolubatarya" type="rss" xmlUrl="https://dolubatarya.com/feed/" htmlUrl="https://dolubatarya.com/" />
         <outline text="Teslaturk" title="Teslaturk" type="rss" xmlUrl="https://teslaturk.com/feed/" htmlUrl="https://teslaturk.com/" />
       </outline>
+      <outline text="Sosyal Medya TR">
+        <outline text="BPT Haber (Telegram)" title="BPT Haber (Telegram)" type="rss" xmlUrl="https://rsshub.app/telegram/channel/bpthaber" htmlUrl="https://t.me/s/bpthaber" />
+      </outline>
     </outline>
 
-    <outline text="Articles">
-      <outline text="Recommended">
-        <outline text="OpenAI News" title="OpenAI News" xmlUrl="https://openai.com/news/rss.xml" htmlUrl="https://openai.com/news" type="rss" />
-        <outline text="Epic Games Store - Free Games" title="Epic Games Store - Free Games" xmlUrl="https://rsshub.app/epicgames/freegames/en-US/US" htmlUrl="https://store.epicgames.com/en-US/free-games" type="rss" />
-        <outline text="Epic Games Store News" title="Epic Games Store News" xmlUrl="https://rsshub.app/epicgames/news/en-US" htmlUrl="https://store.epicgames.com/en-US/news" type="rss" />
-        <outline text="The Verge" title="The Verge" xmlUrl="https://www.theverge.com/rss/index.xml" htmlUrl="https://www.theverge.com/" type="rss" />
-        <outline text="Last Week in AI" title="Last Week in AI" xmlUrl="https://lastweekin.ai/feed" htmlUrl="https://lastweekin.ai/" type="rss" />
-        <outline text="MacRumors" title="MacRumors" xmlUrl="https://feeds.macrumors.com/MacRumors-All" htmlUrl="https://www.macrumors.com/" type="rss" />
+    <!-- ═══════════════════════════════════════════════════════════════════ -->
+    <!-- 2. TELEFON & MOBİL CİHAZLAR (2. ÖNCELİK - 70-80 puan)              -->
+    <!-- ═══════════════════════════════════════════════════════════════════ -->
+    <outline text="📱 Telefon &amp; Mobil">
+      <outline text="Android &amp; Genel Mobil">
+        <outline text="GSMArena" title="GSMArena" type="rss" xmlUrl="https://www.gsmarena.com/rss-news-reviews.php3" htmlUrl="https://www.gsmarena.com/" />
+        <outline text="Android Authority" title="Android Authority" type="rss" xmlUrl="https://www.androidauthority.com/feed/" htmlUrl="https://www.androidauthority.com/" />
+        <outline text="Android Police" title="Android Police" type="rss" xmlUrl="https://www.androidpolice.com/feed/" htmlUrl="https://www.androidpolice.com/" />
+        <outline text="9to5Google" title="9to5Google" type="rss" xmlUrl="https://9to5google.com/feed/" htmlUrl="https://9to5google.com/" />
+        <outline text="XDA Developers" title="XDA Developers" type="rss" xmlUrl="https://www.xda-developers.com/feed/" htmlUrl="https://www.xda-developers.com/" />
+        <outline text="Android Central" title="Android Central" type="rss" xmlUrl="http://feeds.feedburner.com/androidcentral?format=xml" htmlUrl="https://www.androidcentral.com/" />
       </outline>
-
-      <outline text="Mobile &amp; Android">
-        <outline text="SamMobile" title="SamMobile" xmlUrl="https://www.sammobile.com/feed/" htmlUrl="https://www.sammobile.com/" type="rss" />
-        <outline text="SammyGuru" title="SammyGuru" xmlUrl="https://sammyguru.com/feed/" htmlUrl="https://sammyguru.com/" type="rss" />
-        <outline text="Gizmochina" title="Gizmochina" xmlUrl="https://www.gizmochina.com/feed/" htmlUrl="https://www.gizmochina.com/" type="rss" />
-        <outline text="Gizchina" title="Gizchina" xmlUrl="https://www.gizchina.com/feed/" htmlUrl="https://www.gizchina.com/" type="rss" />
-        <outline text="9to5Google" title="9to5Google" xmlUrl="https://9to5google.com/feed/" htmlUrl="https://9to5google.com/" type="rss" />
-        <outline text="Android Authority" title="Android Authority" xmlUrl="https://www.androidauthority.com/feed/" htmlUrl="https://www.androidauthority.com/" type="rss" />
-        <outline text="Android Police" title="Android Police" xmlUrl="https://www.androidpolice.com/feed/" htmlUrl="https://www.androidpolice.com/" type="rss" />
-        <outline text="Android Central" title="Android Central" xmlUrl="http://feeds.feedburner.com/androidcentral?format=xml" htmlUrl="https://www.androidcentral.com/" type="rss" />
-        <outline text="GSMArena" title="GSMArena" xmlUrl="https://www.gsmarena.com/rss-news-reviews.php3" htmlUrl="https://www.gsmarena.com/" type="rss" />
-        <outline text="XDA" title="XDA" xmlUrl="https://www.xda-developers.com/feed/" htmlUrl="https://www.xda-developers.com/" type="rss" />
+      <outline text="Samsung">
+        <outline text="SamMobile" title="SamMobile" type="rss" xmlUrl="https://www.sammobile.com/feed/" htmlUrl="https://www.sammobile.com/" />
       </outline>
-
+      <outline text="Xiaomi &amp; Çin Markaları">
+        <outline text="Gizmochina" title="Gizmochina" type="rss" xmlUrl="https://www.gizmochina.com/feed/" htmlUrl="https://www.gizmochina.com/" />
+        <outline text="Gizchina" title="Gizchina" type="rss" xmlUrl="https://www.gizchina.com/feed/" htmlUrl="https://www.gizchina.com/" />
+      </outline>
       <outline text="Apple">
-        <outline text="9to5Mac" title="9to5Mac" xmlUrl="https://9to5mac.com/feed/" htmlUrl="https://9to5mac.com/" type="rss" />
-        <outline text="AppleInsider" title="AppleInsider" xmlUrl="https://appleinsider.com/rss/news/" htmlUrl="https://appleinsider.com/" type="rss" />
-      </outline>
-
-      <outline text="PC Hardware &amp; Gaming">
-        <outline text="Tom's Hardware" title="Tom's Hardware" type="rss" xmlUrl="https://www.tomshardware.com/feeds/all" htmlUrl="https://www.tomshardware.com/" />
-        <outline text="TechPowerUp News" title="TechPowerUp News" xmlUrl="https://www.techpowerup.com/rss/news" htmlUrl="https://www.techpowerup.com/" type="rss" />
-        <outline text="VideoCardz" title="VideoCardz" xmlUrl="https://videocardz.com/feed" htmlUrl="https://videocardz.com/" type="rss" />
-        <outline text="AnandTech" title="AnandTech" xmlUrl="https://www.anandtech.com/rss/" htmlUrl="https://www.anandtech.com/" type="rss" />
-        <outline text="Notebookcheck" title="Notebookcheck" xmlUrl="https://www.notebookcheck.net/rss/Articles.rss" htmlUrl="https://www.notebookcheck.net/" type="rss" />
-        <outline text="WCCFtech" title="WCCFtech" xmlUrl="https://wccftech.com/feed/" htmlUrl="https://wccftech.com/" type="rss" />
-        <outline text="TechSpot" title="TechSpot" xmlUrl="https://www.techspot.com/backend.xml" htmlUrl="https://www.techspot.com/" type="rss" />
-        <outline text="Guru3D" title="Guru3D" xmlUrl="https://www.guru3d.com/rss/" htmlUrl="https://www.guru3d.com/" type="rss" />
-      </outline>
-
-      <outline text="General Tech News">
-        <outline text="Ars Technica" title="Ars Technica" xmlUrl="http://feeds.arstechnica.com/arstechnica/index" htmlUrl="https://arstechnica.com/" type="rss" />
-        <outline text="TechCrunch" title="TechCrunch" type="rss" xmlUrl="https://techcrunch.com/feed/" htmlUrl="https://techcrunch.com/" />
-        <outline text="WIRED Top Stories" title="WIRED Top Stories" type="rss" xmlUrl="https://www.wired.com/feed/rss" htmlUrl="https://www.wired.com/" />
-        <outline text="Engadget" title="Engadget" type="rss" xmlUrl="https://www.engadget.com/rss.xml" htmlUrl="https://www.engadget.com/" />
-        <outline text="Reuters Technology" title="Reuters Technology" type="rss" xmlUrl="https://feeds.reuters.com/reuters/technologyNews" htmlUrl="https://www.reuters.com/technology/" />
-        <outline text="The Register" title="The Register" xmlUrl="https://www.theregister.com/headlines.atom" htmlUrl="https://www.theregister.com/" type="rss" />
-      </outline>
-
-      <outline text="Electric Vehicles &amp; Auto">
-        <outline text="Electrek" title="Electrek" type="rss" xmlUrl="https://electrek.co/feed" htmlUrl="https://electrek.co/" />
-        <outline text="InsideEVs" title="InsideEVs" type="rss" xmlUrl="https://insideevs.com/rss/articles/all/" htmlUrl="https://insideevs.com/" />
+        <outline text="9to5Mac" title="9to5Mac" type="rss" xmlUrl="https://9to5mac.com/feed/" htmlUrl="https://9to5mac.com/" />
+        <outline text="MacRumors" title="MacRumors" type="rss" xmlUrl="https://feeds.macrumors.com/MacRumors-All" htmlUrl="https://www.macrumors.com/" />
+        <outline text="AppleInsider" title="AppleInsider" type="rss" xmlUrl="https://appleinsider.com/rss/news/" htmlUrl="https://appleinsider.com/" />
       </outline>
     </outline>
 
-    <outline text="SocialMedia">
-      <outline text="Recommended">
-        <outline text="Twitter @Sam Altman" title="Twitter @Sam Altman" xmlUrl="https://rsshub.app/twitter/user/sama" htmlUrl="https://x.com/sama" type="rss" />
-        <outline text="Twitter @OpenAI" title="Twitter @OpenAI" xmlUrl="https://rsshub.app/twitter/user/OpenAI" htmlUrl="https://x.com/OpenAI" type="rss" />
-        <outline text="Twitter @Anthropic" title="Twitter @Anthropic" xmlUrl="https://rsshub.app/twitter/user/AnthropicAI" htmlUrl="https://x.com/AnthropicAI" type="rss" />
-        <outline text="Twitter @Google AI" title="Twitter @Google AI" xmlUrl="https://rsshub.app/twitter/user/GoogleAI" htmlUrl="https://x.com/GoogleAI" type="rss" />
-        <outline text="BPT Haber (Telegram)" title="BPT Haber (Telegram)" xmlUrl="https://rsshub.app/telegram/channel/bpthaber" htmlUrl="https://t.me/s/bpthaber" type="rss" />
+    <!-- ═══════════════════════════════════════════════════════════════════ -->
+    <!-- 3. DONANIM - PC & GAMING (3. ÖNCELİK - 55-70 puan)                 -->
+    <!-- ═══════════════════════════════════════════════════════════════════ -->
+    <outline text="🖥️ Donanım &amp; Gaming">
+      <outline text="PC Hardware">
+        <outline text="Tom's Hardware" title="Tom's Hardware" type="rss" xmlUrl="https://www.tomshardware.com/feeds/all" htmlUrl="https://www.tomshardware.com/" />
+        <outline text="AnandTech" title="AnandTech" type="rss" xmlUrl="https://www.anandtech.com/rss/" htmlUrl="https://www.anandtech.com/" />
+        <outline text="TechPowerUp" title="TechPowerUp" type="rss" xmlUrl="https://www.techpowerup.com/rss/news" htmlUrl="https://www.techpowerup.com/" />
+        <outline text="VideoCardz" title="VideoCardz" type="rss" xmlUrl="https://videocardz.com/feed" htmlUrl="https://videocardz.com/" />
+        <outline text="Notebookcheck" title="Notebookcheck" type="rss" xmlUrl="https://www.notebookcheck.net/rss/Articles.rss" htmlUrl="https://www.notebookcheck.net/" />
+        <outline text="TechSpot" title="TechSpot" type="rss" xmlUrl="https://www.techspot.com/backend.xml" htmlUrl="https://www.techspot.com/" />
+        <outline text="Guru3D" title="Guru3D" type="rss" xmlUrl="https://www.guru3d.com/rss/" htmlUrl="https://www.guru3d.com/" />
+        <outline text="WCCFtech" title="WCCFtech" type="rss" xmlUrl="https://wccftech.com/feed/" htmlUrl="https://wccftech.com/" />
       </outline>
+      <outline text="Gaming">
+        <outline text="Epic Games - Ücretsiz Oyunlar" title="Epic Games - Free Games" type="rss" xmlUrl="https://rsshub.app/epicgames/freegames/tr" htmlUrl="https://store.epicgames.com/tr/free-games" />
+        <outline text="Epic Games News" title="Epic Games News" type="rss" xmlUrl="https://rsshub.app/epicgames/news/tr" htmlUrl="https://store.epicgames.com/tr/news" />
+      </outline>
+    </outline>
+
+    <!-- ═══════════════════════════════════════════════════════════════════ -->
+    <!-- 4. OTOMOTİV & ELEKTRİKLİ ARAÇ (4. ÖNCELİK - 50-55 puan)            -->
+    <!-- ═══════════════════════════════════════════════════════════════════ -->
+    <outline text="🚗 Otomotiv Global">
+      <outline text="Electrek" title="Electrek" type="rss" xmlUrl="https://electrek.co/feed" htmlUrl="https://electrek.co/" />
+      <outline text="InsideEVs" title="InsideEVs" type="rss" xmlUrl="https://insideevs.com/rss/articles/all/" htmlUrl="https://insideevs.com/" />
+    </outline>
+
+    <!-- ═══════════════════════════════════════════════════════════════════ -->
+    <!-- 5. YAPAY ZEKA (5. ÖNCELİK - 40-55 puan)                            -->
+    <!-- ═══════════════════════════════════════════════════════════════════ -->
+    <outline text="🤖 Yapay Zeka">
+      <outline text="OpenAI News" title="OpenAI News" type="rss" xmlUrl="https://openai.com/news/rss.xml" htmlUrl="https://openai.com/news" />
+      <outline text="Last Week in AI" title="Last Week in AI" type="rss" xmlUrl="https://lastweekin.ai/feed" htmlUrl="https://lastweekin.ai/" />
+      <outline text="AI Sosyal Medya">
+        <outline text="Twitter @OpenAI" title="Twitter @OpenAI" type="rss" xmlUrl="https://rsshub.app/twitter/user/OpenAI" htmlUrl="https://x.com/OpenAI" />
+        <outline text="Twitter @Anthropic" title="Twitter @Anthropic" type="rss" xmlUrl="https://rsshub.app/twitter/user/AnthropicAI" htmlUrl="https://x.com/AnthropicAI" />
+        <outline text="Twitter @Google AI" title="Twitter @Google AI" type="rss" xmlUrl="https://rsshub.app/twitter/user/GoogleAI" htmlUrl="https://x.com/GoogleAI" />
+        <outline text="Twitter @Sam Altman" title="Twitter @Sam Altman" type="rss" xmlUrl="https://rsshub.app/twitter/user/sama" htmlUrl="https://x.com/sama" />
+      </outline>
+    </outline>
+
+    <!-- ═══════════════════════════════════════════════════════════════════ -->
+    <!-- 6. GENEL TEKNOLOJİ (6. ÖNCELİK - 40-60 puan)                       -->
+    <!-- ═══════════════════════════════════════════════════════════════════ -->
+    <outline text="📰 Genel Teknoloji">
+      <outline text="The Verge" title="The Verge" type="rss" xmlUrl="https://www.theverge.com/rss/index.xml" htmlUrl="https://www.theverge.com/" />
+      <outline text="Ars Technica" title="Ars Technica" type="rss" xmlUrl="http://feeds.arstechnica.com/arstechnica/index" htmlUrl="https://arstechnica.com/" />
+      <outline text="TechCrunch" title="TechCrunch" type="rss" xmlUrl="https://techcrunch.com/feed/" htmlUrl="https://techcrunch.com/" />
+      <outline text="WIRED" title="WIRED" type="rss" xmlUrl="https://www.wired.com/feed/rss" htmlUrl="https://www.wired.com/" />
+      <outline text="Engadget" title="Engadget" type="rss" xmlUrl="https://www.engadget.com/rss.xml" htmlUrl="https://www.engadget.com/" />
+      <outline text="Reuters Technology" title="Reuters Technology" type="rss" xmlUrl="https://feeds.reuters.com/reuters/technologyNews" htmlUrl="https://www.reuters.com/technology/" />
+      <outline text="The Register" title="The Register" type="rss" xmlUrl="https://www.theregister.com/headlines.atom" htmlUrl="https://www.theregister.com/" />
     </outline>
   </body>
 </opml>
