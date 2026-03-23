@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='utf-8'?>
 <opml version="2.0">
   <head>
-    <dateCreated>2026-01-21T00:00:00.000Z</dateCreated>
-    <title>HWP News Sources - TR Priority v12.2</title>
+    <dateCreated>2026-03-23T00:00:00.000Z</dateCreated>
+    <title>HWP News Sources - TR Priority v12.3</title>
   </head>
   <body>
     <!-- ═══════════════════════════════════════════════════════════════════ -->
@@ -12,9 +12,10 @@
       <outline text="Teknoloji &amp; Girişim">
         <outline text="Webrazzi" title="Webrazzi" type="rss" xmlUrl="https://webrazzi.com/feed/" htmlUrl="https://webrazzi.com/" />
         <outline text="DonanımHaber" title="DonanımHaber" type="rss" xmlUrl="https://www.donanimhaber.com/rss/tum/" htmlUrl="https://www.donanimhaber.com/" />
-        <outline text="ShiftDelete.Net" title="ShiftDelete.Net" type="rss" xmlUrl="https://shiftdelete.net/feed" htmlUrl="https://shiftdelete.net/" />
         <outline text="Technopat" title="Technopat" type="rss" xmlUrl="https://www.technopat.net/feed/" htmlUrl="https://www.technopat.net/" />
         <outline text="Anadolu Ajansı" title="Anadolu Ajansı" type="rss" xmlUrl="https://www.aa.com.tr/tr/rss/default?cat=teknoloji" htmlUrl="https://www.aa.com.tr/" />
+        <outline text="Techolay" title="Techolay" type="rss" xmlUrl="https://www.techolay.com/feed/" htmlUrl="https://www.techolay.com/" />
+        <outline text="Tamindir" title="Tamindir" type="rss" xmlUrl="https://www.tamindir.com/feed/" htmlUrl="https://www.tamindir.com/" />
         <outline text="LOG" title="LOG" type="rss" xmlUrl="https://www.log.com.tr/feed/" htmlUrl="https://www.log.com.tr/" />
         <outline text="BT Dünyası" title="BT Dünyası" type="rss" xmlUrl="https://feeds.feedburner.com/Btdunyasinet" htmlUrl="https://btdunyasi.net/" />
       </outline>
