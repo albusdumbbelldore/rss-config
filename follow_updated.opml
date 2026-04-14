@@ -35,11 +35,12 @@
     <outline text="📱 Telefon &amp; Mobil">
       <outline text="Android &amp; Genel Mobil">
         <outline text="Android Central" title="Android Central" type="rss" xmlUrl="http://feeds.feedburner.com/androidcentral?format=xml" htmlUrl="https://www.androidcentral.com/"/>
-      <outline text="GSMArena" title="GSMArena" type="rss" xmlUrl="https://www.gsmarena.com/rss-news-reviews.php3" htmlUrl="https://www.gsmarena.com/"/>
+        <outline text="GSMArena" title="GSMArena" type="rss" xmlUrl="https://www.gsmarena.com/rss-news-reviews.php3" htmlUrl="https://www.gsmarena.com/"/>
         <outline text="Android Authority" title="Android Authority" type="rss" xmlUrl="https://www.androidauthority.com/feed/" htmlUrl="https://www.androidauthority.com/"/>
         <outline text="Android Police" title="Android Police" type="rss" xmlUrl="https://www.androidpolice.com/feed/" htmlUrl="https://www.androidpolice.com/"/>
         <outline text="XDA Developers" title="XDA Developers" type="rss" xmlUrl="https://www.xda-developers.com/feed/" htmlUrl="https://www.xda-developers.com/"/>
-        </outline>
+        <outline text="9to5Google" title="9to5Google" type="rss" xmlUrl="https://9to5google.com/guides/feed/" htmlUrl="https://9to5google.com/"/>
+      </outline>
       <outline text="Samsung">
         <outline text="SamMobile" title="SamMobile" type="rss" xmlUrl="https://www.sammobile.com/feed/" htmlUrl="https://www.sammobile.com/"/>
       </outline>
@@ -50,6 +51,7 @@
       <outline text="Apple">
         <outline text="MacRumors" title="MacRumors" type="rss" xmlUrl="https://feeds.macrumors.com/MacRumors-All" htmlUrl="https://www.macrumors.com/"/>
         <outline text="AppleInsider" title="AppleInsider" type="rss" xmlUrl="https://appleinsider.com/rss/news/" htmlUrl="https://appleinsider.com/"/>
+        <outline text="9to5Mac" title="9to5Mac" type="rss" xmlUrl="https://9to5mac.com/guides/feed/" htmlUrl="https://9to5mac.com/"/>
       </outline>
     </outline>
 
@@ -59,7 +61,8 @@
     <outline text="🖥️ Donanım &amp; Gaming">
       <outline text="PC Hardware">
         <outline text="Tom's Hardware" title="Tom's Hardware" type="rss" xmlUrl="https://www.tomshardware.com/feeds/all" htmlUrl="https://www.tomshardware.com/"/>
-        <outline text="HotHardware" title="HotHardware" type="rss" xmlUrl="https://hothardware.com/rss" htmlUrl="https://hothardware.com/news"/><outline text="AnandTech" title="AnandTech" type="rss" xmlUrl="https://www.anandtech.com/rss/" htmlUrl="https://www.anandtech.com/"/>
+        <outline text="HotHardware" title="HotHardware" type="rss" xmlUrl="https://hothardware.com/rss" htmlUrl="https://hothardware.com/news"/>
+        <outline text="AnandTech" title="AnandTech" type="rss" xmlUrl="https://www.anandtech.com/rss/" htmlUrl="https://www.anandtech.com/"/>
         <outline text="TechPowerUp" title="TechPowerUp" type="rss" xmlUrl="https://www.techpowerup.com/rss/news" htmlUrl="https://www.techpowerup.com/"/>
         <outline text="VideoCardz" title="VideoCardz" type="rss" xmlUrl="https://videocardz.com/feed" htmlUrl="https://videocardz.com/"/>
         <outline text="TechSpot" title="TechSpot" type="rss" xmlUrl="https://www.techspot.com/backend.xml" htmlUrl="https://www.techspot.com/"/>
@@ -67,7 +70,8 @@
         <outline text="WCCFtech" title="WCCFtech" type="rss" xmlUrl="https://wccftech.com/feed/" htmlUrl="https://wccftech.com/"/>
       </outline>
       <outline text="Gaming">
-        <outline text="Steam News" title="Steam News" type="rss" xmlUrl="https://store.steampowered.com/feeds/news/collection/steam" htmlUrl="https://store.steampowered.com/news/collection/steam/"/><outline text="Epic Games - Ücretsiz Oyunlar" title="Epic Games - Free Games" type="rss" xmlUrl="https://rsshub.app/epicgames/freegames/tr" htmlUrl="https://store.epicgames.com/tr/free-games"/>
+        <outline text="Steam News" title="Steam News" type="rss" xmlUrl="https://store.steampowered.com/feeds/news/collection/steam" htmlUrl="https://store.steampowered.com/news/collection/steam/"/>
+        <outline text="Epic Games - Ücretsiz Oyunlar" title="Epic Games - Free Games" type="rss" xmlUrl="https://rsshub.app/epicgames/freegames/tr" htmlUrl="https://store.epicgames.com/tr/free-games"/>
         <outline text="Epic Games News" title="Epic Games News" type="rss" xmlUrl="https://rsshub.app/epicgames/news/tr" htmlUrl="https://store.epicgames.com/tr/news"/>
       </outline>
     </outline>
@@ -76,7 +80,8 @@
     <!-- 4. OTOMOTİV & ELEKTRİKLİ ARAÇ (4. ÖNCELİK - 50-55 puan)            -->
     <!-- ═══════════════════════════════════════════════════════════════════ -->
     <outline text="🚗 Otomotiv Global">
-      <outline text="Motor1 Global" title="Motor1 Global" type="rss" xmlUrl="https://www.motor1.com/rss/news/all/" htmlUrl="https://www.motor1.com/"/><outline text="Electrek" title="Electrek" type="rss" xmlUrl="https://electrek.co/feed" htmlUrl="https://electrek.co/"/>
+      <outline text="Motor1 Global" title="Motor1 Global" type="rss" xmlUrl="https://www.motor1.com/rss/news/all/" htmlUrl="https://www.motor1.com/"/>
+      <outline text="Electrek" title="Electrek" type="rss" xmlUrl="https://electrek.co/feed" htmlUrl="https://electrek.co/"/>
       <outline text="InsideEVs" title="InsideEVs" type="rss" xmlUrl="https://insideevs.com/rss/articles/all/" htmlUrl="https://insideevs.com/"/>
     </outline>
 
@@ -98,7 +103,9 @@
     <!-- 6. GENEL TEKNOLOJİ (6. ÖNCELİK - 40-60 puan)                       -->
     <!-- ═══════════════════════════════════════════════════════════════════ -->
     <outline text="📰 Genel Teknoloji">
-      <outline text="Space.com" title="Space.com" type="rss" xmlUrl="https://www.space.com/feeds/all" htmlUrl="https://www.space.com/"/><outline text="TechRadar" title="TechRadar" type="rss" xmlUrl="https://www.techradar.com/rss" htmlUrl="https://www.techradar.com/"/><outline text="The Verge" title="The Verge" type="rss" xmlUrl="https://www.theverge.com/rss/index.xml" htmlUrl="https://www.theverge.com/"/>
+      <outline text="Space.com" title="Space.com" type="rss" xmlUrl="https://www.space.com/feeds/all" htmlUrl="https://www.space.com/"/>
+      <outline text="TechRadar" title="TechRadar" type="rss" xmlUrl="https://www.techradar.com/rss" htmlUrl="https://www.techradar.com/"/>
+      <outline text="The Verge" title="The Verge" type="rss" xmlUrl="https://www.theverge.com/rss/index.xml" htmlUrl="https://www.theverge.com/"/>
       <outline text="Ars Technica" title="Ars Technica" type="rss" xmlUrl="http://feeds.arstechnica.com/arstechnica/index" htmlUrl="https://arstechnica.com/"/>
       <outline text="TechCrunch" title="TechCrunch" type="rss" xmlUrl="https://techcrunch.com/feed/" htmlUrl="https://techcrunch.com/"/>
       <outline text="WIRED" title="WIRED" type="rss" xmlUrl="https://www.wired.com/feed/rss" htmlUrl="https://www.wired.com/"/>
