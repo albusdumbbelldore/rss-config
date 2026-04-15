@@ -2,7 +2,7 @@
 <opml version="2.0">
   <head>
     <dateCreated>2026-03-23T00:00:00.000Z</dateCreated>
-    <title>HWP News Sources - TR Priority v12.4</title>
+    <title>HWP News Sources - TR Priority v12.5</title>
   </head>
   <body>
     <!-- ═══════════════════════════════════════════════════════════════════ -->
@@ -13,7 +13,8 @@
         <outline text="Webrazzi" title="Webrazzi" type="rss" xmlUrl="https://webrazzi.com/feed/" htmlUrl="https://webrazzi.com/"/>
         <outline text="DonanımHaber" title="DonanımHaber" type="rss" xmlUrl="https://www.donanimhaber.com/rss/tum/" htmlUrl="https://www.donanimhaber.com/"/>
         <outline text="Technopat" title="Technopat" type="rss" xmlUrl="https://www.technopat.net/feed/" htmlUrl="https://www.technopat.net/"/>
-        <outline text="Anadolu Ajansı" title="Anadolu Ajansı" type="rss" xmlUrl="https://www.aa.com.tr/tr/teyithatti/rss/news?cat=bilim-teknoloji" htmlUrl="https://www.aa.com.tr/tr/bilim-teknoloji"/>        <outline text="Techolay" title="Techolay" type="rss" xmlUrl="https://www.techolay.com/feed/" htmlUrl="https://www.techolay.com/"/>
+        <outline text="Anadolu Ajansı" title="Anadolu Ajansı" type="rss" xmlUrl="https://www.aa.com.tr/tr/teyithatti/rss/news?cat=bilim-teknoloji" htmlUrl="https://www.aa.com.tr/tr/bilim-teknoloji"/>
+        <outline text="Techolay" title="Techolay" type="rss" xmlUrl="https://www.techolay.com/feed/" htmlUrl="https://www.techolay.com/"/>
         <outline text="LOG" title="LOG" type="rss" xmlUrl="https://www.log.com.tr/feed/" htmlUrl="https://www.log.com.tr/"/>
         <outline text="BT Dünyası" title="BT Dünyası" type="rss" xmlUrl="https://feeds.feedburner.com/Btdunyasinet" htmlUrl="https://btdunyasi.net/"/>
       </outline>
@@ -90,12 +91,6 @@
     <outline text="🤖 Yapay Zeka">
       <outline text="OpenAI News" title="OpenAI News" type="rss" xmlUrl="https://openai.com/news/rss.xml" htmlUrl="https://openai.com/news"/>
       <outline text="Last Week in AI" title="Last Week in AI" type="rss" xmlUrl="https://lastweekin.ai/feed" htmlUrl="https://lastweekin.ai/"/>
-      <outline text="AI Sosyal Medya">
-        <outline text="Twitter @OpenAI" title="Twitter @OpenAI" type="rss" xmlUrl="https://rsshub.app/twitter/user/OpenAI" htmlUrl="https://x.com/OpenAI"/>
-        <outline text="Twitter @Anthropic" title="Twitter @Anthropic" type="rss" xmlUrl="https://rsshub.app/twitter/user/AnthropicAI" htmlUrl="https://x.com/AnthropicAI"/>
-        <outline text="Twitter @Google AI" title="Twitter @Google AI" type="rss" xmlUrl="https://rsshub.app/twitter/user/GoogleAI" htmlUrl="https://x.com/GoogleAI"/>
-        <outline text="Twitter @Sam Altman" title="Twitter @Sam Altman" type="rss" xmlUrl="https://rsshub.app/twitter/user/sama" htmlUrl="https://x.com/sama"/>
-      </outline>
     </outline>
 
     <!-- ═══════════════════════════════════════════════════════════════════ -->
@@ -111,6 +106,15 @@
       <outline text="Engadget" title="Engadget" type="rss" xmlUrl="https://www.engadget.com/rss.xml" htmlUrl="https://www.engadget.com/"/>
       <outline text="Reuters Technology" title="Reuters Technology" type="rss" xmlUrl="https://feeds.reuters.com/reuters/technologyNews" htmlUrl="https://www.reuters.com/technology/"/>
       <outline text="The Register" title="The Register" type="rss" xmlUrl="https://www.theregister.com/headlines.atom" htmlUrl="https://www.theregister.com/"/>
+    </outline>
+
+    <!-- ═══════════════════════════════════════════════════════════════════ -->
+    <!-- 7. KÜLTÜR & SANAT (YENİ)                                           -->
+    <!-- ═══════════════════════════════════════════════════════════════════ -->
+    <outline text="🎭 Kültür &amp; Sanat">
+      <outline text="Variety" title="Variety" type="rss" xmlUrl="https://variety.com/feed/" htmlUrl="https://variety.com/"/>
+      <outline text="Pitchfork News" title="Pitchfork News" type="rss" xmlUrl="https://pitchfork.com/rss/news/" htmlUrl="https://pitchfork.com/news/"/>
+      <outline text="NME Music News" title="NME Music News" type="rss" xmlUrl="https://www.nme.com/music/news?alt=rss" htmlUrl="https://www.nme.com/news/music"/>
     </outline>
   </body>
 </opml>
