@@ -13,7 +13,7 @@
         <outline text="Webrazzi" title="Webrazzi" type="rss" xmlUrl="https://webrazzi.com/feed/" htmlUrl="https://webrazzi.com/"/>
         <outline text="DonanımHaber" title="DonanımHaber" type="rss" xmlUrl="https://www.donanimhaber.com/rss/tum/" htmlUrl="https://www.donanimhaber.com/"/>
         <outline text="Technopat" title="Technopat" type="rss" xmlUrl="https://www.technopat.net/feed/" htmlUrl="https://www.technopat.net/"/>
-        <outline text="Anadolu Ajansı" title="Anadolu Ajansı" type="rss" xmlUrl="https://www.aa.com.tr/tr/teyithatti/rss/news?cat=bilim-teknoloji" htmlUrl="https://www.aa.com.tr/tr/bilim-teknoloji"/>
+        <outline text="Anadolu Ajansı" ... xmlUrl="https://www.aa.com.tr/tr/rss/default?cat=bilim-teknoloji" .../>
         <outline text="Techolay" title="Techolay" type="rss" xmlUrl="https://www.techolay.com/feed/" htmlUrl="https://www.techolay.com/"/>
         <outline text="LOG" title="LOG" type="rss" xmlUrl="https://www.log.com.tr/feed/" htmlUrl="https://www.log.com.tr/"/>
         <outline text="BT Dünyası" title="BT Dünyası" type="rss" xmlUrl="https://feeds.feedburner.com/Btdunyasinet" htmlUrl="https://btdunyasi.net/"/>
