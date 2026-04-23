@@ -1,62 +1,76 @@
 <?xml version='1.0' encoding='utf-8'?>
 <opml version="2.0">
   <head>
-    <dateCreated>2026-03-23T00:00:00.000Z</dateCreated>
-    <title>HWP News Sources - TR Priority v12.5</title>
+    <dateCreated>2026-04-23T00:00:00.000Z</dateCreated>
+    <title>HWP News Sources - TR Priority v13.0</title>
   </head>
   <body>
     <!-- ═══════════════════════════════════════════════════════════════════ -->
-    <!-- 1. TÜRKİYE HABERLERİ (EN YÜKSEK ÖNCELİK - 100-150 puan)            -->
+    <!-- 1. TÜRKİYE HABERLERİ                                              -->
     <!-- ═══════════════════════════════════════════════════════════════════ -->
     <outline text="🇹🇷 Türkiye Haberleri">
       <outline text="Teknoloji &amp; Girişim">
         <outline text="Webrazzi" title="Webrazzi" type="rss" xmlUrl="https://webrazzi.com/feed/" htmlUrl="https://webrazzi.com/"/>
         <outline text="DonanımHaber" title="DonanımHaber" type="rss" xmlUrl="https://www.donanimhaber.com/rss/tum/" htmlUrl="https://www.donanimhaber.com/"/>
-        <outline text="Technopat" title="Technopat" type="rss" xmlUrl="https://www.technopat.net/feed/" htmlUrl="https://www.technopat.net/"/>
-        <outline text="Anadolu Ajansı" title="Anadolu Ajansı" type="rss" xmlUrl="https://www.aa.com.tr/tr/rss/default?cat=bilim-teknoloji" htmlUrl="https://www.aa.com.tr/tr/bilim-teknoloji" />        
-        <outline text="Techolay" title="Techolay" type="rss" xmlUrl="https://www.techolay.com/feed/" htmlUrl="https://www.techolay.com/"/>
+        <outline text="Anadolu Ajansı" title="Anadolu Ajansı" type="rss" xmlUrl="https://www.aa.com.tr/tr/teyithatti/rss/news?cat=bilim-teknoloji" htmlUrl="https://www.aa.com.tr/tr/bilim-teknoloji"/>
         <outline text="LOG" title="LOG" type="rss" xmlUrl="https://www.log.com.tr/feed/" htmlUrl="https://www.log.com.tr/"/>
         <outline text="BT Dünyası" title="BT Dünyası" type="rss" xmlUrl="https://feeds.feedburner.com/Btdunyasinet" htmlUrl="https://btdunyasi.net/"/>
       </outline>
+
       <outline text="Otomobil &amp; Elektrikli Araç">
         <outline text="Motor1 Türkiye" title="Motor1 Türkiye" type="rss" xmlUrl="https://tr.motor1.com/rss/articles/all/" htmlUrl="https://tr.motor1.com/"/>
         <outline text="Otomobil Haber" title="Otomobil Haber" type="rss" xmlUrl="https://www.otomobilhaber.com.tr/feed/" htmlUrl="https://www.otomobilhaber.com.tr/"/>
         <outline text="Dolubatarya" title="Dolubatarya" type="rss" xmlUrl="https://dolubatarya.com/feed/" htmlUrl="https://dolubatarya.com/"/>
         <outline text="Teslaturk" title="Teslaturk" type="rss" xmlUrl="https://teslaturk.com/feed/" htmlUrl="https://teslaturk.com/"/>
       </outline>
+
+      <outline text="Regülasyon &amp; Kurumsal İzleme (HTML-only)">
+        <outline text="EngelliWeb" title="EngelliWeb" htmlUrl="https://ifade.org.tr/engelliweb/"/>
+        <outline text="Ticaret Bakanlığı Haberler" title="Ticaret Bakanlığı Haberler" htmlUrl="https://ticaret.gov.tr/haberler"/>
+        <outline text="BTK Haberler" title="BTK Haberler" htmlUrl="https://www.btk.gov.tr/haberler"/>
+      </outline>
+
+      <outline text="Savunma &amp; Kamu İzleme (HTML-only)">
+        <outline text="MSB Haberler" title="MSB Haberler" htmlUrl="https://www.msb.gov.tr/Basin-ve-Yayin/Haberler"/>
+        <outline text="Baykar Haberler" title="Baykar Haberler" htmlUrl="https://baykartech.com/tr/haberler/"/>
+      </outline>
+
       <outline text="Sosyal Medya TR">
         <outline text="BPT Haber (Telegram)" title="BPT Haber (Telegram)" type="rss" xmlUrl="https://rsshub.app/telegram/channel/bpthaber" htmlUrl="https://t.me/s/bpthaber"/>
       </outline>
     </outline>
 
     <!-- ═══════════════════════════════════════════════════════════════════ -->
-    <!-- 2. TELEFON & MOBİL CİHAZLAR (2. ÖNCELİK - 70-80 puan)              -->
+    <!-- 2. TELEFON & MOBİL CİHAZLAR                                       -->
     <!-- ═══════════════════════════════════════════════════════════════════ -->
     <outline text="📱 Telefon &amp; Mobil">
       <outline text="Android &amp; Genel Mobil">
+        <outline text="9to5Google" title="9to5Google" type="rss" xmlUrl="https://9to5google.com/feed/" htmlUrl="https://9to5google.com/"/>
+        <outline text="Android Authority" title="Android Authority" type="rss" xmlUrl="https://www.androidauthority.com/feed/" htmlUrl="https://www.androidauthority.com/news/"/>
         <outline text="Android Central" title="Android Central" type="rss" xmlUrl="http://feeds.feedburner.com/androidcentral?format=xml" htmlUrl="https://www.androidcentral.com/"/>
         <outline text="GSMArena" title="GSMArena" type="rss" xmlUrl="https://www.gsmarena.com/rss-news-reviews.php3" htmlUrl="https://www.gsmarena.com/"/>
-        <outline text="Android Authority" title="Android Authority" type="rss" xmlUrl="https://www.androidauthority.com/feed/" htmlUrl="https://www.androidauthority.com/"/>
         <outline text="Android Police" title="Android Police" type="rss" xmlUrl="https://www.androidpolice.com/feed/" htmlUrl="https://www.androidpolice.com/"/>
         <outline text="XDA Developers" title="XDA Developers" type="rss" xmlUrl="https://www.xda-developers.com/feed/" htmlUrl="https://www.xda-developers.com/"/>
-        <outline text="9to5Google" title="9to5Google" type="rss" xmlUrl="https://9to5google.com/guides/feed/" htmlUrl="https://9to5google.com/"/>
       </outline>
+
       <outline text="Samsung">
         <outline text="SamMobile" title="SamMobile" type="rss" xmlUrl="https://www.sammobile.com/feed/" htmlUrl="https://www.sammobile.com/"/>
       </outline>
+
       <outline text="Xiaomi &amp; Çin Markaları">
         <outline text="Gizmochina" title="Gizmochina" type="rss" xmlUrl="https://www.gizmochina.com/feed/" htmlUrl="https://www.gizmochina.com/"/>
         <outline text="Gizchina" title="Gizchina" type="rss" xmlUrl="https://www.gizchina.com/feed/" htmlUrl="https://www.gizchina.com/"/>
       </outline>
+
       <outline text="Apple">
         <outline text="MacRumors" title="MacRumors" type="rss" xmlUrl="https://feeds.macrumors.com/MacRumors-All" htmlUrl="https://www.macrumors.com/"/>
+        <outline text="9to5Mac" title="9to5Mac" type="rss" xmlUrl="https://9to5mac.com/feed/" htmlUrl="https://9to5mac.com/"/>
         <outline text="AppleInsider" title="AppleInsider" type="rss" xmlUrl="https://appleinsider.com/rss/news/" htmlUrl="https://appleinsider.com/"/>
-        <outline text="9to5Mac" title="9to5Mac" type="rss" xmlUrl="https://9to5mac.com/guides/feed/" htmlUrl="https://9to5mac.com/"/>
       </outline>
     </outline>
 
     <!-- ═══════════════════════════════════════════════════════════════════ -->
-    <!-- 3. DONANIM - PC & GAMING (3. ÖNCELİK - 55-70 puan)                 -->
+    <!-- 3. DONANIM - PC & GAMING                                          -->
     <!-- ═══════════════════════════════════════════════════════════════════ -->
     <outline text="🖥️ Donanım &amp; Gaming">
       <outline text="PC Hardware">
@@ -69,6 +83,7 @@
         <outline text="Guru3D" title="Guru3D" type="rss" xmlUrl="https://www.guru3d.com/rss/" htmlUrl="https://www.guru3d.com/"/>
         <outline text="WCCFtech" title="WCCFtech" type="rss" xmlUrl="https://wccftech.com/feed/" htmlUrl="https://wccftech.com/"/>
       </outline>
+
       <outline text="Gaming">
         <outline text="Steam News" title="Steam News" type="rss" xmlUrl="https://store.steampowered.com/feeds/news/collection/steam" htmlUrl="https://store.steampowered.com/news/collection/steam/"/>
         <outline text="Epic Games - Ücretsiz Oyunlar" title="Epic Games - Free Games" type="rss" xmlUrl="https://rsshub.app/epicgames/freegames/tr" htmlUrl="https://store.epicgames.com/tr/free-games"/>
@@ -77,16 +92,16 @@
     </outline>
 
     <!-- ═══════════════════════════════════════════════════════════════════ -->
-    <!-- 4. OTOMOTİV & ELEKTRİKLİ ARAÇ (4. ÖNCELİK - 50-55 puan)            -->
+    <!-- 4. OTOMOTİV & ELEKTRİKLİ ARAÇ                                     -->
     <!-- ═══════════════════════════════════════════════════════════════════ -->
     <outline text="🚗 Otomotiv Global">
+      <outline text="Electrek" title="Electrek" type="rss" xmlUrl="https://electrek.co/feed/" htmlUrl="https://electrek.co/"/>
       <outline text="Motor1 Global" title="Motor1 Global" type="rss" xmlUrl="https://www.motor1.com/rss/news/all/" htmlUrl="https://www.motor1.com/"/>
-      <outline text="Electrek" title="Electrek" type="rss" xmlUrl="https://electrek.co/feed" htmlUrl="https://electrek.co/"/>
       <outline text="InsideEVs" title="InsideEVs" type="rss" xmlUrl="https://insideevs.com/rss/articles/all/" htmlUrl="https://insideevs.com/"/>
     </outline>
 
     <!-- ═══════════════════════════════════════════════════════════════════ -->
-    <!-- 5. YAPAY ZEKA (5. ÖNCELİK - 40-55 puan)                            -->
+    <!-- 5. YAPAY ZEKA                                                     -->
     <!-- ═══════════════════════════════════════════════════════════════════ -->
     <outline text="🤖 Yapay Zeka">
       <outline text="OpenAI News" title="OpenAI News" type="rss" xmlUrl="https://openai.com/news/rss.xml" htmlUrl="https://openai.com/news"/>
@@ -94,7 +109,7 @@
     </outline>
 
     <!-- ═══════════════════════════════════════════════════════════════════ -->
-    <!-- 6. GENEL TEKNOLOJİ (6. ÖNCELİK - 40-60 puan)                       -->
+    <!-- 6. GENEL TEKNOLOJİ                                                -->
     <!-- ═══════════════════════════════════════════════════════════════════ -->
     <outline text="📰 Genel Teknoloji">
       <outline text="Space.com" title="Space.com" type="rss" xmlUrl="https://www.space.com/feeds/all" htmlUrl="https://www.space.com/"/>
@@ -109,7 +124,7 @@
     </outline>
 
     <!-- ═══════════════════════════════════════════════════════════════════ -->
-    <!-- 7. KÜLTÜR & SANAT (YENİ)                                           -->
+    <!-- 7. KÜLTÜR & SANAT                                                 -->
     <!-- ═══════════════════════════════════════════════════════════════════ -->
     <outline text="🎭 Kültür &amp; Sanat">
       <outline text="Variety" title="Variety" type="rss" xmlUrl="https://variety.com/feed/" htmlUrl="https://variety.com/"/>
